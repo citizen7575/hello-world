@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# Simple Python script to brute force verify email addresses from email servers responding to VRFY 
 import socket
 import sys
 
